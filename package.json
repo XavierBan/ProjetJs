@@ -6,7 +6,7 @@
     "start": "node ../../Desktop/serveur/serveur/serveur.js"
   },
   "dependencies": {
-    "express": "~4.15.5",
-    "ws": "^3.3.2"
+    "express": "^4.15.5",
+    "ws": "^3.3.3"
   }
 }
